@@ -1,0 +1,6 @@
+{
+  "name": "ReportBot",
+  "description": "Automated sales analytics pipeline with CSV ingestion, pandas metrics compute, styled PDF report generation, and email delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

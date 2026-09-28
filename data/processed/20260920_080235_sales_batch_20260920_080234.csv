@@ -1,0 +1,124 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,discount,tax,total_amount,region,payment_method
+ORD-2026001,2026-09-10,CUST-909,Terra Nova Robotics,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,6,450.0,0.1,194.4,2624.4,Middle East & Africa,Credit Card
+ORD-2026002,2026-08-13,CUST-905,Zenith Logistics Asia,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.15,162.66,2195.86,Asia Pacific,PayPal Business
+ORD-2026003,2026-09-02,CUST-912,Quantum Cybernetics,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,8,450.0,0.05,273.6,3693.6,Asia Pacific,Wire Transfer
+ORD-2026004,2026-09-08,CUST-904,Vanguard Financial Group,PROD-101,Enterprise Cloud Server X9,Enterprise IT,8,2499.0,0.1,1439.42,19432.22,Europe,Corporate ACH
+ORD-2026005,2026-08-13,CUST-910,Horizon Health Systems,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,6,149.0,0.15,60.79,820.69,North America,Wire Transfer
+ORD-2026006,2026-09-07,CUST-904,Vanguard Financial Group,PROD-101,Enterprise Cloud Server X9,Enterprise IT,3,2499.0,0.0,599.76,8096.76,Europe,Wire Transfer
+ORD-2026007,2026-09-10,CUST-901,Acme Global Dynamics,PROD-106,"Standing Desk Motorized 72""",Office Furniture,1,750.0,0.0,60.0,810.0,North America,Credit Card
+ORD-2026008,2026-09-13,CUST-903,Aether Aerospace Corp,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,6,450.0,0.1,194.4,2624.4,North America,PayPal Business
+ORD-2026009,2026-08-27,CUST-908,Orion Cloud Technologies,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,8,3600.0,0.1,2073.6,27993.6,Asia Pacific,Corporate ACH
+ORD-2026010,2026-08-22,CUST-901,Acme Global Dynamics,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,3,3600.0,0.05,820.8,11080.8,North America,Credit Card
+ORD-2026011,2026-09-15,CUST-905,Zenith Logistics Asia,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,5,3600.0,0.05,1368.0,18468.0,Asia Pacific,Corporate ACH
+ORD-2026012,2026-08-12,CUST-906,Solaria Energy Partners,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,2,149.0,0.15,20.26,273.56,Latin America,PayPal Business
+ORD-2026013,2026-08-29,CUST-907,Starlight Media Network,PROD-101,Enterprise Cloud Server X9,Enterprise IT,5,2499.0,0.05,949.62,12819.87,North America,Credit Card
+ORD-2026014,2026-09-06,CUST-902,Nexus BioTech Labs,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,2,3600.0,0.15,489.6,6609.6,Europe,Wire Transfer
+ORD-2026015,2026-09-11,CUST-903,Aether Aerospace Corp,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,2,1850.0,0.15,251.6,3396.6,North America,PayPal Business
+ORD-2026016,2026-09-15,CUST-902,Nexus BioTech Labs,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,3,220.0,0.0,52.8,712.8,Europe,PayPal Business
+ORD-2026017,2026-08-09,CUST-908,Orion Cloud Technologies,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,1,899.5,0.0,71.96,971.46,Asia Pacific,Credit Card
+ORD-2026018,2026-08-27,CUST-908,Orion Cloud Technologies,PROD-101,Enterprise Cloud Server X9,Enterprise IT,5,2499.0,0.15,849.66,11470.41,Asia Pacific,PayPal Business
+ORD-2026019,2026-09-19,CUST-910,Horizon Health Systems,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.15,162.66,2195.86,North America,PayPal Business
+ORD-2026020,2026-08-06,CUST-904,Vanguard Financial Group,PROD-106,"Standing Desk Motorized 72""",Office Furniture,2,750.0,0.0,120.0,1620.0,Europe,Wire Transfer
+ORD-2026021,2026-08-10,CUST-908,Orion Cloud Technologies,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,3,899.5,0.15,183.5,2477.22,Asia Pacific,Corporate ACH
+ORD-2026022,2026-09-04,CUST-912,Quantum Cybernetics,PROD-106,"Standing Desk Motorized 72""",Office Furniture,6,750.0,0.15,306.0,4131.0,Asia Pacific,Wire Transfer
+ORD-2026023,2026-09-19,CUST-903,Aether Aerospace Corp,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.1,172.22,2325.02,North America,Corporate ACH
+ORD-2026024,2026-09-02,CUST-901,Acme Global Dynamics,PROD-101,Enterprise Cloud Server X9,Enterprise IT,3,2499.0,0.05,569.77,7691.92,North America,Credit Card
+ORD-2026025,2026-09-08,CUST-903,Aether Aerospace Corp,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,6,3600.0,0.05,1641.6,22161.6,North America,Corporate ACH
+ORD-2026026,2026-08-07,CUST-907,Starlight Media Network,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,5,220.0,0.0,88.0,1188.0,North America,Wire Transfer
+ORD-2026027,2026-08-27,CUST-902,Nexus BioTech Labs,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,1,899.5,0.0,71.96,971.46,Europe,Wire Transfer
+ORD-2026028,2026-08-30,CUST-903,Aether Aerospace Corp,PROD-106,"Standing Desk Motorized 72""",Office Furniture,6,750.0,0.05,342.0,4617.0,North America,Credit Card
+ORD-2026029,2026-09-14,CUST-903,Aether Aerospace Corp,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,5,450.0,0.05,171.0,2308.5,North America,Corporate ACH
+ORD-2026030,2026-08-31,CUST-910,Horizon Health Systems,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,7,220.0,0.1,110.88,1496.88,North America,PayPal Business
+ORD-2026031,2026-09-18,CUST-912,Quantum Cybernetics,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,4,149.0,0.15,40.53,547.13,Asia Pacific,Credit Card
+ORD-2026032,2026-09-06,CUST-909,Terra Nova Robotics,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,4,3600.0,0.1,1036.8,13996.8,Middle East & Africa,Wire Transfer
+ORD-2026033,2026-08-24,CUST-911,Equinox Retail Enterprises,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,7,299.0,0.05,159.07,2147.42,Europe,Corporate ACH
+ORD-2026034,2026-09-15,CUST-906,Solaria Energy Partners,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,3,149.0,0.1,32.18,434.48,Latin America,Wire Transfer
+ORD-2026035,2026-08-15,CUST-907,Starlight Media Network,PROD-106,"Standing Desk Motorized 72""",Office Furniture,2,750.0,0.1,108.0,1458.0,North America,Wire Transfer
+ORD-2026036,2026-08-31,CUST-910,Horizon Health Systems,PROD-109,High-Speed Laser Printer M45,Office Supplies,4,520.0,0.1,149.76,2021.76,North America,Credit Card
+ORD-2026037,2026-09-17,CUST-901,Acme Global Dynamics,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,7,220.0,0.0,123.2,1663.2,North America,Wire Transfer
+ORD-2026038,2026-08-25,CUST-908,Orion Cloud Technologies,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.1,172.22,2325.02,Asia Pacific,Corporate ACH
+ORD-2026039,2026-08-27,CUST-907,Starlight Media Network,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.05,181.79,2454.19,North America,PayPal Business
+ORD-2026040,2026-09-12,CUST-902,Nexus BioTech Labs,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,6,3600.0,0.15,1468.8,19828.8,Europe,Credit Card
+ORD-2026041,2026-08-24,CUST-909,Terra Nova Robotics,PROD-109,High-Speed Laser Printer M45,Office Supplies,4,520.0,0.0,166.4,2246.4,Middle East & Africa,PayPal Business
+ORD-2026042,2026-09-12,CUST-904,Vanguard Financial Group,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,1,149.0,0.05,11.32,152.87,Europe,Credit Card
+ORD-2026043,2026-08-20,CUST-901,Acme Global Dynamics,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,4,3600.0,0.0,1152.0,15552.0,North America,Wire Transfer
+ORD-2026044,2026-09-08,CUST-905,Zenith Logistics Asia,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,4,450.0,0.0,144.0,1944.0,Asia Pacific,Wire Transfer
+ORD-2026045,2026-09-08,CUST-902,Nexus BioTech Labs,PROD-106,"Standing Desk Motorized 72""",Office Furniture,6,750.0,0.15,306.0,4131.0,Europe,Corporate ACH
+ORD-2026046,2026-09-08,CUST-906,Solaria Energy Partners,PROD-109,High-Speed Laser Printer M45,Office Supplies,6,520.0,0.05,237.12,3201.12,Latin America,Corporate ACH
+ORD-2026047,2026-08-21,CUST-906,Solaria Energy Partners,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,4,220.0,0.1,63.36,855.36,Latin America,Credit Card
+ORD-2026048,2026-08-30,CUST-910,Horizon Health Systems,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,3,899.5,0.0,215.88,2914.38,North America,PayPal Business
+ORD-2026049,2026-09-05,CUST-911,Equinox Retail Enterprises,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,4,220.0,0.0,70.4,950.4,Europe,Corporate ACH
+ORD-2026050,2026-09-01,CUST-902,Nexus BioTech Labs,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,2,899.5,0.05,136.72,1845.77,Europe,Wire Transfer
+ORD-2026051,2026-08-29,CUST-901,Acme Global Dynamics,PROD-109,High-Speed Laser Printer M45,Office Supplies,5,520.0,0.0,208.0,2808.0,North America,Corporate ACH
+ORD-2026052,2026-09-18,CUST-903,Aether Aerospace Corp,PROD-101,Enterprise Cloud Server X9,Enterprise IT,3,2499.0,0.15,509.8,6882.25,North America,Wire Transfer
+ORD-2026053,2026-08-08,CUST-910,Horizon Health Systems,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,1,299.0,0.0,23.92,322.92,North America,Credit Card
+ORD-2026054,2026-09-03,CUST-911,Equinox Retail Enterprises,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,5,899.5,0.1,323.82,4371.57,Europe,Wire Transfer
+ORD-2026055,2026-08-08,CUST-910,Horizon Health Systems,PROD-109,High-Speed Laser Printer M45,Office Supplies,6,520.0,0.0,249.6,3369.6,North America,Wire Transfer
+ORD-2026056,2026-08-17,CUST-910,Horizon Health Systems,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,5,220.0,0.0,88.0,1188.0,North America,Corporate ACH
+ORD-2026057,2026-08-06,CUST-902,Nexus BioTech Labs,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,6,1850.0,0.15,754.8,10189.8,Europe,Corporate ACH
+ORD-2026058,2026-09-04,CUST-906,Solaria Energy Partners,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,3,3600.0,0.0,864.0,11664.0,Latin America,PayPal Business
+ORD-2026059,2026-08-12,CUST-910,Horizon Health Systems,PROD-109,High-Speed Laser Printer M45,Office Supplies,4,520.0,0.05,158.08,2134.08,North America,Corporate ACH
+ORD-2026060,2026-08-12,CUST-909,Terra Nova Robotics,PROD-101,Enterprise Cloud Server X9,Enterprise IT,6,2499.0,0.0,1199.52,16193.52,Middle East & Africa,Wire Transfer
+ORD-2026061,2026-08-26,CUST-901,Acme Global Dynamics,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,5,3600.0,0.0,1440.0,19440.0,North America,Credit Card
+ORD-2026062,2026-08-19,CUST-906,Solaria Energy Partners,PROD-106,"Standing Desk Motorized 72""",Office Furniture,6,750.0,0.0,360.0,4860.0,Latin America,Credit Card
+ORD-2026063,2026-09-01,CUST-902,Nexus BioTech Labs,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,7,899.5,0.0,503.72,6800.22,Europe,Wire Transfer
+ORD-2026064,2026-08-18,CUST-903,Aether Aerospace Corp,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,8,220.0,0.1,126.72,1710.72,North America,PayPal Business
+ORD-2026065,2026-09-16,CUST-908,Orion Cloud Technologies,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,1,149.0,0.05,11.32,152.87,Asia Pacific,Wire Transfer
+ORD-2026066,2026-08-25,CUST-905,Zenith Logistics Asia,PROD-106,"Standing Desk Motorized 72""",Office Furniture,3,750.0,0.15,153.0,2065.5,Asia Pacific,Wire Transfer
+ORD-2026067,2026-08-30,CUST-902,Nexus BioTech Labs,PROD-109,High-Speed Laser Printer M45,Office Supplies,6,520.0,0.0,249.6,3369.6,Europe,Corporate ACH
+ORD-2026068,2026-08-22,CUST-909,Terra Nova Robotics,PROD-109,High-Speed Laser Printer M45,Office Supplies,8,520.0,0.0,332.8,4492.8,Middle East & Africa,Credit Card
+ORD-2026069,2026-08-26,CUST-906,Solaria Energy Partners,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,6,3600.0,0.0,1728.0,23328.0,Latin America,Corporate ACH
+ORD-2026070,2026-09-10,CUST-906,Solaria Energy Partners,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,3,1850.0,0.05,421.8,5694.3,Latin America,PayPal Business
+ORD-2026071,2026-08-09,CUST-902,Nexus BioTech Labs,PROD-109,High-Speed Laser Printer M45,Office Supplies,3,520.0,0.15,106.08,1432.08,Europe,Corporate ACH
+ORD-2026072,2026-08-10,CUST-902,Nexus BioTech Labs,PROD-101,Enterprise Cloud Server X9,Enterprise IT,4,2499.0,0.0,799.68,10795.68,Europe,Credit Card
+ORD-2026073,2026-08-17,CUST-908,Orion Cloud Technologies,PROD-101,Enterprise Cloud Server X9,Enterprise IT,4,2499.0,0.05,759.7,10255.9,Asia Pacific,Corporate ACH
+ORD-2026074,2026-08-07,CUST-902,Nexus BioTech Labs,PROD-106,"Standing Desk Motorized 72""",Office Furniture,1,750.0,0.1,54.0,729.0,Europe,Wire Transfer
+ORD-2026075,2026-08-08,CUST-903,Aether Aerospace Corp,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,5,450.0,0.1,162.0,2187.0,North America,Corporate ACH
+ORD-2026076,2026-08-13,CUST-904,Vanguard Financial Group,PROD-101,Enterprise Cloud Server X9,Enterprise IT,4,2499.0,0.0,799.68,10795.68,Europe,PayPal Business
+ORD-2026077,2026-09-13,CUST-904,Vanguard Financial Group,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,1,450.0,0.1,32.4,437.4,Europe,Wire Transfer
+ORD-2026078,2026-09-17,CUST-901,Acme Global Dynamics,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,1,899.5,0.0,71.96,971.46,North America,Corporate ACH
+ORD-2026079,2026-09-04,CUST-905,Zenith Logistics Asia,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,2,899.5,0.05,136.72,1845.77,Asia Pacific,Corporate ACH
+ORD-2026080,2026-08-29,CUST-910,Horizon Health Systems,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,2,450.0,0.05,68.4,923.4,North America,Credit Card
+ORD-2026081,2026-08-06,CUST-911,Equinox Retail Enterprises,PROD-109,High-Speed Laser Printer M45,Office Supplies,4,520.0,0.15,141.44,1909.44,Europe,Credit Card
+ORD-2026082,2026-08-17,CUST-904,Vanguard Financial Group,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,4,149.0,0.0,47.68,643.68,Europe,Wire Transfer
+ORD-2026083,2026-08-08,CUST-906,Solaria Energy Partners,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,1,1850.0,0.0,148.0,1998.0,Latin America,Credit Card
+ORD-2026084,2026-08-07,CUST-901,Acme Global Dynamics,PROD-101,Enterprise Cloud Server X9,Enterprise IT,4,2499.0,0.0,799.68,10795.68,North America,PayPal Business
+ORD-2026085,2026-08-12,CUST-910,Horizon Health Systems,PROD-101,Enterprise Cloud Server X9,Enterprise IT,1,2499.0,0.15,169.93,2294.08,North America,PayPal Business
+ORD-2026086,2026-09-15,CUST-901,Acme Global Dynamics,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,6,299.0,0.05,136.34,1840.64,North America,Corporate ACH
+ORD-2026087,2026-09-09,CUST-909,Terra Nova Robotics,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,8,1850.0,0.15,1006.4,13586.4,Middle East & Africa,Credit Card
+ORD-2026088,2026-08-24,CUST-903,Aether Aerospace Corp,PROD-109,High-Speed Laser Printer M45,Office Supplies,7,520.0,0.1,262.08,3538.08,North America,PayPal Business
+ORD-2026089,2026-08-22,CUST-906,Solaria Energy Partners,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.1,172.22,2325.02,Latin America,PayPal Business
+ORD-2026090,2026-08-14,CUST-906,Solaria Energy Partners,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,6,450.0,0.15,183.6,2478.6,Latin America,Wire Transfer
+ORD-2026091,2026-08-19,CUST-912,Quantum Cybernetics,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,6,1850.0,0.1,799.2,10789.2,Asia Pacific,Wire Transfer
+ORD-2026092,2026-08-09,CUST-902,Nexus BioTech Labs,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,1,149.0,0.15,10.13,136.78,Europe,PayPal Business
+ORD-2026093,2026-08-16,CUST-907,Starlight Media Network,PROD-106,"Standing Desk Motorized 72""",Office Furniture,1,750.0,0.1,54.0,729.0,North America,PayPal Business
+ORD-2026094,2026-08-21,CUST-910,Horizon Health Systems,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,5,1850.0,0.15,629.0,8491.5,North America,PayPal Business
+ORD-2026095,2026-09-18,CUST-909,Terra Nova Robotics,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,1,1850.0,0.15,125.8,1698.3,Middle East & Africa,Credit Card
+ORD-2026096,2026-09-14,CUST-903,Aether Aerospace Corp,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,5,450.0,0.1,162.0,2187.0,North America,Wire Transfer
+ORD-2026097,2026-08-13,CUST-911,Equinox Retail Enterprises,PROD-101,Enterprise Cloud Server X9,Enterprise IT,6,2499.0,0.0,1199.52,16193.52,Europe,Corporate ACH
+ORD-2026098,2026-08-30,CUST-904,Vanguard Financial Group,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,6,149.0,0.05,67.94,917.24,Europe,PayPal Business
+ORD-2026099,2026-08-09,CUST-911,Equinox Retail Enterprises,PROD-101,Enterprise Cloud Server X9,Enterprise IT,3,2499.0,0.1,539.78,7287.08,Europe,Corporate ACH
+ORD-2026100,2026-09-06,CUST-910,Horizon Health Systems,PROD-104,Wireless Mechanical Keyboard,Hardware & Peripherals,5,149.0,0.05,56.62,764.37,North America,Credit Card
+ORD-2026101,2026-08-30,CUST-907,Starlight Media Network,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,6,299.0,0.05,136.34,1840.64,North America,Corporate ACH
+ORD-2026102,2026-09-07,CUST-907,Starlight Media Network,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,3,450.0,0.1,97.2,1312.2,North America,Credit Card
+ORD-2026103,2026-08-16,CUST-909,Terra Nova Robotics,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,7,220.0,0.0,123.2,1663.2,Middle East & Africa,Credit Card
+ORD-2026104,2026-08-27,CUST-901,Acme Global Dynamics,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,4,1850.0,0.05,562.4,7592.4,North America,PayPal Business
+ORD-2026105,2026-08-28,CUST-910,Horizon Health Systems,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,8,299.0,0.15,162.66,2195.86,North America,Wire Transfer
+ORD-2026106,2026-08-27,CUST-903,Aether Aerospace Corp,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,1,899.5,0.05,68.36,922.88,North America,Corporate ACH
+ORD-2026107,2026-09-13,CUST-907,Starlight Media Network,PROD-107,AI Analytics Suite SaaS (Annual),Software Solutions,2,3600.0,0.0,576.0,7776.0,North America,PayPal Business
+ORD-2026108,2026-09-12,CUST-905,Zenith Logistics Asia,PROD-101,Enterprise Cloud Server X9,Enterprise IT,5,2499.0,0.05,949.62,12819.87,Asia Pacific,Corporate ACH
+ORD-2026109,2026-09-06,CUST-902,Nexus BioTech Labs,PROD-108,Cybersecurity Gateway Shield,Enterprise IT,4,1850.0,0.0,592.0,7992.0,Europe,Credit Card
+ORD-2026110,2026-08-30,CUST-909,Terra Nova Robotics,PROD-101,Enterprise Cloud Server X9,Enterprise IT,1,2499.0,0.0,199.92,2698.92,Middle East & Africa,Credit Card
+ORD-2026111,2026-08-09,CUST-902,Nexus BioTech Labs,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,5,299.0,0.0,119.6,1614.6,Europe,Corporate ACH
+ORD-2026112,2026-09-05,CUST-907,Starlight Media Network,PROD-109,High-Speed Laser Printer M45,Office Supplies,2,520.0,0.0,83.2,1123.2,North America,PayPal Business
+ORD-2026113,2026-08-25,CUST-911,Equinox Retail Enterprises,PROD-102,"Smart UltraWide Monitor 38""",Hardware & Peripherals,4,899.5,0.1,259.06,3497.26,Europe,Credit Card
+ORD-2026114,2026-09-03,CUST-910,Horizon Health Systems,PROD-109,High-Speed Laser Printer M45,Office Supplies,8,520.0,0.1,299.52,4043.52,North America,PayPal Business
+ORD-2026115,2026-09-05,CUST-910,Horizon Health Systems,PROD-103,Ergonomic Mesh Chair Pro,Office Furniture,4,450.0,0.05,136.8,1846.8,North America,Wire Transfer
+ORD-2026116,2026-09-09,CUST-908,Orion Cloud Technologies,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,3,299.0,0.05,68.17,920.32,Asia Pacific,PayPal Business
+ORD-2026117,2026-09-10,CUST-911,Equinox Retail Enterprises,PROD-106,"Standing Desk Motorized 72""",Office Furniture,1,750.0,0.0,60.0,810.0,Europe,Wire Transfer
+ORD-2026118,2026-09-17,CUST-912,Quantum Cybernetics,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,5,220.0,0.15,74.8,1009.8,Asia Pacific,Wire Transfer
+ORD-2026119,2026-08-23,CUST-905,Zenith Logistics Asia,PROD-110,Docking Hub Pro Thunderbolt 4,Hardware & Peripherals,3,220.0,0.05,50.16,677.16,Asia Pacific,PayPal Business
+ORD-2026120,2026-08-24,CUST-903,Aether Aerospace Corp,PROD-105,Noise-Cancelling Executive Headset,Audio & Comms,3,299.0,0.15,61.0,823.45,North America,Credit Card
+ORD-ERR-001,invalid-date-format-99,CUST-999,Ghost Entity,PROD-101,Cloud Server,Enterprise IT,2,2499.0,0.0,100.0,5098.0,North America,Wire Transfer
+ORD-ERR-002,2026-09-10,,Nameless Corp,PROD-102,Smart Monitor,Hardware & Peripherals,-5,899.5,0.1,0.0,-4000.0,Europe,Credit Card
+ORD-ERR-003,2026-09-12,CUST-904,Vanguard Financial,PROD-105,Headset,Audio & Comms,1,NOT_A_NUMBER,1.5,20.0,319.0,Europe,Credit Card

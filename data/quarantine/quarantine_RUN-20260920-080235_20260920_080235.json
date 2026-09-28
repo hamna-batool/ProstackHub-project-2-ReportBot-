@@ -1,0 +1,26 @@
+[
+  {
+    "run_id": "RUN-20260920-080235",
+    "filename": "sales_batch_20260920_080234.csv",
+    "row_index": 122,
+    "raw_data": "{\"order_id\": \"ORD-ERR-001\", \"order_date\": \"invalid-date-format-99\", \"customer_id\": \"CUST-999\", \"customer_name\": \"Ghost Entity\", \"product_id\": \"PROD-101\", \"product_name\": \"Cloud Server\", \"category\": \"Enterprise IT\", \"quantity\": 2, \"unit_price\": \"2499.0\", \"discount\": 0.0, \"tax\": 100.0, \"total_amount\": 5098.0, \"region\": \"North America\", \"payment_method\": \"Wire Transfer\"}",
+    "validation_error": "Invalid date format for 'order_date': 'invalid-date-format-99'. Expected YYYY-MM-DD",
+    "timestamp": "2026-09-20T08:02:35.356369"
+  },
+  {
+    "run_id": "RUN-20260920-080235",
+    "filename": "sales_batch_20260920_080234.csv",
+    "row_index": 123,
+    "raw_data": "{\"order_id\": \"ORD-ERR-002\", \"order_date\": \"2026-09-10\", \"customer_id\": NaN, \"customer_name\": \"Nameless Corp\", \"product_id\": \"PROD-102\", \"product_name\": \"Smart Monitor\", \"category\": \"Hardware & Peripherals\", \"quantity\": -5, \"unit_price\": \"899.5\", \"discount\": 0.1, \"tax\": 0.0, \"total_amount\": -4000.0, \"region\": \"Europe\", \"payment_method\": \"Credit Card\"}",
+    "validation_error": "Missing or empty required field: 'customer_id'; Quantity must be a positive integer, got: -5; Total amount must be greater than zero, got: -4000.0",
+    "timestamp": "2026-09-20T08:02:35.357118"
+  },
+  {
+    "run_id": "RUN-20260920-080235",
+    "filename": "sales_batch_20260920_080234.csv",
+    "row_index": 124,
+    "raw_data": "{\"order_id\": \"ORD-ERR-003\", \"order_date\": \"2026-09-12\", \"customer_id\": \"CUST-904\", \"customer_name\": \"Vanguard Financial\", \"product_id\": \"PROD-105\", \"product_name\": \"Headset\", \"category\": \"Audio & Comms\", \"quantity\": 1, \"unit_price\": \"NOT_A_NUMBER\", \"discount\": 1.5, \"tax\": 20.0, \"total_amount\": 319.0, \"region\": \"Europe\", \"payment_method\": \"Credit Card\"}",
+    "validation_error": "Could not parse 'unit_price' as float: NOT_A_NUMBER; Discount must be between 0.0 and 1.0, got: 1.5",
+    "timestamp": "2026-09-20T08:02:35.357248"
+  }
+]
